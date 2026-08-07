@@ -1,5 +1,6 @@
 # Interdisciplinary Applications in Data Science Final Project
 ## Synopsis & Summary
+This project is the final project for my Interdisciplinary Applications in Data Science college class, a class provided by North Hennepin Community College, of which I am a graduate of.
 The conceit of this project involves comparing the rating values of movies for various aggregate movie review websites: Letterboxd, IMDb, Rotten Tomatoes, and Metacritic. This is done by creating a combined database of 9,000+ movies, all of which have ratings on each website, including audience and critic ratings for Rotten Tomatoes, and exclusively critic ratings for Metacritic (as Metacritic’s rating data is primarily from critics). More details about the why and how and resulting information from this experiment is detailed below.
 
 ## Core Project Ideas
